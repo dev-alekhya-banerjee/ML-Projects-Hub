@@ -1,0 +1,501 @@
+Age,Education_Level,Skill_Level,Internship_Experience,Gender,Preferred_Job_Role,CGPA,Projects_Count,Study_Hours_Per_Day,Placement
+21,Bachelor's,Advanced,None,Male,Data Scientist,7.58,2,4.4,No
+22,PhD,Intermediate,Short,Male,Data Scientist,,2,3.6,No
+25,Master's,Intermediate,Long,Male,ML Engineer,6.88,3,4.6,No
+21,Bachelor's,Advanced,Medium,Male,Data Scientist,7.91,7,4.6,Yes
+27,Diploma,Advanced,Medium,Male,Data Scientist,6.92,1,4.6,No
+26,Diploma,,Medium,Male,Business Analyst,6.19,4,3,No
+22,High School,Advanced,Medium,Female,Software Developer,6.39,1,4.1,Yes
+19,Master's,Advanced,Medium,Male,Business Analyst,6.16,0,5.8,No
+19,Bachelor's,Expert,None,Female,Data Analyst,7.82,1,4.2,No
+19,Master's,Advanced,Short,Female,Software Developer,7.74,4,4.8,No
+19,High School,Advanced,None,Female,Data Analyst,7.69,4,4.8,No
+26,PhD,Intermediate,Long,Female,Data Analyst,8.13,2,5.2,No
+21,Master's,Expert,Long,Female,ML Engineer,8.67,5,5.4,Yes
+24,Bachelor's,Advanced,None,Male,Data Analyst,7.07,1,4.2,No
+21,Diploma,Beginner,Medium,Male,Software Developer,7.97,4,3,No
+29,Diploma,Beginner,Long,Male,Data Scientist,6.18,1,2.4,No
+23,Bachelor's,Intermediate,None,Female,Data Scientist,8.84,1,6.2,No
+25,Bachelor's,Advanced,Short,Female,ML Engineer,6.48,2,5.8,No
+20,Bachelor's,Expert,Long,Male,Data Analyst,6.96,1,5.6,No
+24,Bachelor's,Beginner,None,Female,Software Developer,7.06,5,5.9,No
+24,Bachelor's,Intermediate,Medium,Male,ML Engineer,6.23,2,4.2,Yes
+29,Diploma,Intermediate,None,Female,Software Developer,7.63,1,3.4,Yes
+21,Bachelor's,Expert,Long,Male,ML Engineer,7.79,2,2.8,Yes
+24,Bachelor's,Advanced,Long,Male,Data Analyst,7.43,2,2.6,No
+28,Bachelor's,Advanced,Long,Male,Data Scientist,6.21,2,6.6,Yes
+28,Master's,Intermediate,Short,Male,Data Scientist,9.39,1,3.7,Yes
+23,Diploma,Intermediate,Medium,Male,Business Analyst,8.09,3,6.3,No
+30,Bachelor's,Intermediate,Medium,Male,ML Engineer,9.97,2,4.2,Yes
+20,Bachelor's,Beginner,None,Female,Data Scientist,6.88,3,3.4,No
+27,High School,Advanced,Medium,Male,Software Developer,8.46,3,2.6,Yes
+26,Bachelor's,Advanced,None,Male,Data Analyst,8.3,3,3.5,No
+21,Diploma,Expert,Short,Female,Software Developer,7.34,4,6.9,No
+26,High School,Expert,None,Female,Software Developer,8.87,4,2.7,No
+27,Master's,Intermediate,None,Male,ML Engineer,7.24,4,8.1,No
+21,PhD,Advanced,,Male,Software Developer,7.28,3,3.1,No
+21,Master's,Expert,Medium,Male,Data Scientist,5,2,5.8,Yes
+20,Bachelor's,Advanced,None,Male,Data Analyst,7.97,2,4.3,Yes
+26,Diploma,Intermediate,Medium,Female,Data Analyst,6.41,4,4,Yes
+28,Master's,Intermediate,None,Male,Data Analyst,7.1,3,2.3,No
+19,Bachelor's,Beginner,None,Male,Data Scientist,6.68,2,4.3,No
+26,Diploma,Expert,Short,Female,Business Analyst,7.27,1,2.5,No
+25,Bachelor's,Advanced,Medium,Male,Software Developer,8,5,1.6,Yes
+25,High School,Intermediate,None,Female,Software Developer,7.61,3,4.7,No
+21,Master's,Advanced,Medium,Male,Data Analyst,8.24,3,3.4,No
+19,Bachelor's,Advanced,Long,Female,Business Analyst,8.74,2,7.4,Yes
+22,Bachelor's,Intermediate,Medium,Male,Business Analyst,7.27,2,6.2,No
+27,Bachelor's,Beginner,None,Female,Data Analyst,7.17,0,7.4,No
+23,Bachelor's,Advanced,None,Female,Business Analyst,8.46,4,3.3,No
+19,Bachelor's,Intermediate,Long,Male,Software Developer,8.53,2,4.7,No
+23,Diploma,,None,Female,Data Analyst,8.27,2,1,Yes
+26,PhD,Intermediate,Long,Female,Software Developer,6.74,1,4,Yes
+26,Master's,Advanced,Short,Female,Software Developer,7.98,3,4.7,No
+23,Master's,Intermediate,Long,Female,Data Analyst,7.7,2,4.8,No
+30,Master's,Intermediate,Medium,Female,ML Engineer,8.55,4,4.4,Yes
+27,Bachelor's,Advanced,Long,Male,Business Analyst,7.08,2,4.6,Yes
+19,Master's,Intermediate,Short,Male,Software Developer,6.1,1,1,No
+22,Diploma,Beginner,Medium,Female,Software Developer,8.22,4,4.9,No
+21,Diploma,Beginner,Short,Male,,5.3,0,5.3,No
+20,High School,Advanced,Short,Female,Software Developer,6.94,0,6.8,No
+26,Bachelor's,Advanced,Medium,Female,Software Developer,6.68,3,5.1,Yes
+25,Bachelor's,Advanced,Long,Male,Data Analyst,6.67,0,4.3,No
+27,Bachelor's,Intermediate,Long,Male,Software Developer,6.93,2,6.4,No
+20,Master's,Beginner,Medium,Female,Business Analyst,8.7,1,1,No
+22,Bachelor's,Beginner,Short,Male,Software Developer,8.34,2,3.6,No
+24,Bachelor's,Intermediate,Short,Female,Data Analyst,7.37,4,3.2,No
+29,Bachelor's,Intermediate,Medium,Male,Business Analyst,8.62,3,4.4,No
+21,Diploma,Intermediate,None,Female,Data Analyst,6.64,2,1,No
+26,Master's,Intermediate,None,Male,Data Scientist,6.52,0,6.7,No
+21,High School,Advanced,Short,Female,Data Analyst,8.38,3,4.1,No
+30,PhD,Intermediate,None,Male,Data Scientist,8.12,1,5,No
+20,Master's,Intermediate,None,Female,Business Analyst,7.19,5,4.9,No
+21,Diploma,Advanced,None,Male,Software Developer,6.58,5,6.6,No
+29,High School,Intermediate,None,Female,Data Analyst,8.91,2,1.3,Yes
+24,Master's,Advanced,None,Female,ML Engineer,6.05,5,4.7,No
+20,Master's,Advanced,Long,,ML Engineer,7.06,0,6.4,Yes
+26,Master's,Expert,Short,Male,ML Engineer,7.81,2,4.3,No
+19,Master's,Beginner,Short,Male,Data Analyst,9.22,3,2.9,No
+25,High School,Expert,Medium,Female,Software Developer,7.94,1,3.5,No
+20,Bachelor's,Intermediate,None,Female,ML Engineer,8.03,1,3.8,No
+28,Diploma,Intermediate,Long,Male,Business Analyst,7.09,3,3.3,No
+30,Master's,Intermediate,Medium,Male,Data Analyst,8.11,2,4.2,No
+24,Bachelor's,Expert,None,Male,Data Analyst,7.69,7,7.1,Yes
+30,Bachelor's,Intermediate,Short,Female,Software Developer,6.17,0,3.5,No
+20,High School,Intermediate,Long,Male,ML Engineer,8.31,2,3.7,Yes
+20,Bachelor's,Advanced,Long,Other,Software Developer,8.47,5,5.3,Yes
+28,Bachelor's,Intermediate,Short,Male,Software Developer,8.32,1,4.2,No
+26,Master's,Beginner,Medium,Female,Data Analyst,7.63,1,2.2,No
+30,Bachelor's,Beginner,None,Male,Software Developer,6.74,2,4.4,No
+20,Master's,Beginner,Long,Male,Business Analyst,5.52,3,4.3,No
+25,Bachelor's,Beginner,None,Female,Data Scientist,7.74,2,6.2,No
+21,Diploma,Beginner,Long,Female,Business Analyst,8.57,1,2.8,No
+26,Master's,Advanced,Medium,Other,ML Engineer,8.5,4,6.2,No
+25,Master's,Intermediate,Medium,Male,Data Analyst,8.33,6,4.3,Yes
+26,Bachelor's,Intermediate,Short,Male,Software Developer,7.53,0,2.6,No
+25,Master's,Advanced,None,Female,Data Scientist,8.58,2,2.3,Yes
+29,Bachelor's,Intermediate,None,Female,Business Analyst,8.43,2,7.8,No
+24,Bachelor's,Advanced,None,Male,Software Developer,7.22,2,4.2,No
+25,Bachelor's,Beginner,None,Male,Software Developer,8.21,2,6.1,No
+23,High School,Intermediate,Medium,Male,Business Analyst,7.12,2,1.6,No
+25,Diploma,Beginner,Short,Female,Data Scientist,8.09,2,9,Yes
+19,High School,Beginner,None,Male,ML Engineer,6.43,5,6,No
+19,Bachelor's,Intermediate,Long,Male,Software Developer,6.5,1,4.1,Yes
+27,Bachelor's,Beginner,Long,Male,Data Analyst,8.55,0,4,No
+23,Bachelor's,Beginner,Long,Male,Business Analyst,8.44,2,5.7,Yes
+23,Master's,Beginner,Long,Male,Business Analyst,8.17,3,5.7,No
+21,Bachelor's,Intermediate,None,Male,Data Scientist,7.68,4,4.8,No
+23,Bachelor's,Intermediate,Short,Male,Business Analyst,5.45,2,4.5,No
+21,Master's,Intermediate,Medium,Female,ML Engineer,7.53,1,5.5,No
+27,Bachelor's,Intermediate,Medium,Male,Data Scientist,8.01,3,1.5,No
+27,High School,Advanced,None,Male,ML Engineer,7.12,4,3.9,Yes
+24,Bachelor's,Beginner,Medium,Female,Data Analyst,6.96,3,1.7,No
+19,Diploma,Advanced,None,Female,Data Analyst,8.9,1,5.5,Yes
+25,Master's,Advanced,None,Male,Data Analyst,7.55,2,3.4,No
+25,Master's,Beginner,Short,Male,ML Engineer,8.01,4,1.8,No
+28,Bachelor's,Advanced,Short,Male,Software Developer,8.3,1,3.2,No
+28,Master's,Expert,Short,Female,Data Analyst,6.7,3,4.8,No
+22,Master's,Beginner,None,Other,Software Developer,7.77,2,4.2,No
+26,Diploma,Intermediate,Long,Female,Software Developer,8.79,4,2.5,Yes
+24,Master's,Advanced,None,Female,Data Analyst,9.24,1,1.6,Yes
+22,Bachelor's,Advanced,None,Female,ML Engineer,7.64,3,4.6,No
+22,Master's,Intermediate,Long,Male,Business Analyst,7.39,1,3.5,Yes
+20,Master's,Intermediate,Long,Male,Software Developer,7.84,2,4.1,Yes
+20,Bachelor's,Intermediate,Medium,Female,ML Engineer,7.82,1,4.2,No
+30,Diploma,Intermediate,Medium,Female,Data Scientist,8.85,3,5.2,No
+22,Bachelor's,Advanced,Medium,Male,ML Engineer,6.7,6,5.9,Yes
+23,Bachelor's,Intermediate,Short,Female,Software Developer,7.35,4,4.7,No
+26,Master's,Intermediate,None,Male,Software Developer,6.59,3,4,Yes
+24,Master's,Advanced,Short,Male,Data Analyst,6.69,4,4.5,No
+22,High School,Beginner,Short,Male,ML Engineer,7.94,4,3.9,No
+29,Bachelor's,Intermediate,None,Male,Software Developer,8.33,2,1.7,Yes
+25,Bachelor's,Advanced,Medium,Female,Data Analyst,7.02,0,6.4,Yes
+26,,Advanced,Short,Male,Data Analyst,8.29,1,6,No
+20,Diploma,Intermediate,None,Female,Software Developer,8.6,5,7.9,No
+30,Bachelor's,Intermediate,None,Female,Software Developer,9.34,4,8.4,Yes
+25,Master's,Beginner,Medium,Female,Business Analyst,7.66,1,2.5,No
+20,Bachelor's,Intermediate,None,Male,ML Engineer,7.02,3,3.9,No
+20,Bachelor's,Intermediate,Medium,Male,Data Analyst,6.7,3,8.8,No
+26,Master's,Intermediate,Short,Male,Business Analyst,6.61,2,4.4,No
+20,Bachelor's,Intermediate,Short,Other,Data Analyst,8.72,1,4.9,No
+29,PhD,Intermediate,Short,Female,Business Analyst,6.24,3,1.9,No
+27,PhD,Beginner,Medium,Male,Business Analyst,8.7,1,4.8,No
+30,,Intermediate,None,Female,Software Developer,6.82,0,7.8,No
+19,Bachelor's,Intermediate,Medium,Male,Business Analyst,6.98,2,6.7,No
+27,Bachelor's,Intermediate,Short,Female,Data Scientist,7.46,1,3.5,No
+19,Bachelor's,Beginner,None,Male,Software Developer,6.97,3,3.8,No
+28,High School,Advanced,Long,Female,Business Analyst,8.44,3,2.6,No
+28,Bachelor's,Intermediate,Medium,Male,Software Developer,9.23,0,3.1,Yes
+20,Bachelor's,Advanced,Medium,Female,Data Scientist,7.01,2,1.3,No
+24,High School,Advanced,Medium,Female,Software Developer,7.21,1,4.4,No
+24,Bachelor's,Intermediate,Medium,Female,Business Analyst,7.45,2,7.1,No
+19,Master's,Beginner,Medium,Male,Data Scientist,8.09,4,5.1,Yes
+25,Bachelor's,Intermediate,Medium,Male,Data Analyst,7.46,3,6.8,No
+26,Diploma,Intermediate,Medium,Male,Business Analyst,8.85,1,6.3,No
+20,Bachelor's,Advanced,Medium,Male,Business Analyst,8.63,3,3.6,Yes
+26,PhD,Intermediate,Medium,Male,Data Analyst,6.53,3,3.2,No
+27,Bachelor's,Beginner,Medium,Female,Data Analyst,8.07,3,3.3,Yes
+24,Bachelor's,Intermediate,None,Female,Data Analyst,8.97,2,1.6,Yes
+23,Master's,Intermediate,Long,Male,Data Scientist,7.15,2,4.6,No
+30,Bachelor's,Advanced,Long,Male,Software Developer,7.34,2,1,No
+27,Master's,Intermediate,None,Male,Business Analyst,7.12,3,5.5,No
+30,Bachelor's,Intermediate,Medium,Female,Software Developer,7.14,1,4.6,Yes
+29,Bachelor's,Expert,None,Male,Software Developer,6.1,3,5.3,No
+27,Bachelor's,Advanced,None,Female,Data Scientist,6.4,0,6.3,Yes
+19,Bachelor's,Intermediate,Medium,Male,Business Analyst,7.67,2,4.8,Yes
+29,Diploma,Beginner,None,Other,Software Developer,8.96,4,7.3,Yes
+21,Master's,Beginner,Medium,Female,ML Engineer,7.05,2,5.6,No
+27,Bachelor's,Intermediate,Medium,Male,Software Developer,7.02,5,3.2,No
+29,Diploma,Beginner,Short,Female,Data Analyst,9.13,3,4.1,No
+20,High School,Intermediate,None,Male,Software Developer,6.6,0,1,No
+30,Bachelor's,Intermediate,None,Female,Data Scientist,6.1,5,3,Yes
+22,Bachelor's,Beginner,Medium,Male,Software Developer,6.85,3,3.9,No
+22,High School,Advanced,Long,Female,Data Analyst,7,3,5.4,Yes
+20,Bachelor's,Beginner,Medium,Female,Data Analyst,6.03,4,3.2,No
+21,Bachelor's,Intermediate,None,Female,Business Analyst,7.48,3,2.4,Yes
+21,Bachelor's,Intermediate,Medium,Female,Data Analyst,8.45,1,1.3,No
+19,Diploma,Expert,Short,Male,Business Analyst,6.44,3,3.5,No
+24,Master's,Beginner,Medium,Male,Data Scientist,7.68,3,7.8,No
+26,Bachelor's,Intermediate,None,Male,Software Developer,7.96,3,5,No
+30,Master's,Expert,Medium,Male,Business Analyst,7.52,3,6.1,Yes
+21,Diploma,Advanced,Short,Female,Software Developer,7.77,3,3,No
+23,Bachelor's,Advanced,Long,Male,Data Scientist,7.78,3,1.8,Yes
+19,Diploma,Intermediate,None,Other,Data Analyst,6.87,3,2.4,No
+28,Master's,Beginner,Medium,Female,Data Analyst,8.95,1,4.3,No
+25,Master's,Advanced,Long,Female,Data Scientist,8.72,1,1.1,Yes
+28,Bachelor's,Expert,None,Male,Software Developer,8.67,4,2.8,No
+19,Bachelor's,Intermediate,Long,Female,ML Engineer,8.51,1,3.5,No
+30,Master's,Intermediate,Medium,Female,ML Engineer,6.18,0,2.3,Yes
+29,Bachelor's,Intermediate,None,Male,Business Analyst,8.43,1,1,No
+27,Bachelor's,Advanced,None,Female,Business Analyst,8.19,3,5,Yes
+26,Bachelor's,Intermediate,Medium,Female,Software Developer,6.22,3,4.6,No
+25,Diploma,Intermediate,None,Male,Data Scientist,7.41,4,5.8,No
+28,Master's,Intermediate,Short,Male,ML Engineer,7.85,1,2.6,No
+25,Master's,Intermediate,None,Male,Software Developer,9.1,3,5.8,No
+23,Bachelor's,Intermediate,Medium,Male,Software Developer,8.25,3,7.1,Yes
+23,Bachelor's,Beginner,None,Male,Data Analyst,6.82,6,4.9,No
+29,Bachelor's,Advanced,Long,Male,Software Developer,9.13,1,3.5,Yes
+23,Master's,Intermediate,Long,Male,Software Developer,7.64,3,4.7,No
+19,Master's,Intermediate,Long,Male,Business Analyst,7.37,4,3.4,No
+26,Master's,Beginner,Medium,Female,Software Developer,7.31,1,3.1,Yes
+30,Master's,Intermediate,None,Male,Data Scientist,6.14,3,5.7,No
+29,Bachelor's,Intermediate,Medium,Female,ML Engineer,7.5,3,4.3,No
+19,Diploma,Beginner,None,Male,Data Analyst,8.05,0,6.5,No
+22,Diploma,Intermediate,None,Male,Software Developer,7.25,2,3.7,Yes
+27,Master's,Beginner,None,Male,Data Analyst,7.98,0,3.9,Yes
+27,Bachelor's,Beginner,Short,Male,Business Analyst,6.82,5,3.5,No
+23,High School,Expert,Medium,Male,ML Engineer,7.47,3,2.6,No
+22,Diploma,Intermediate,Medium,Female,Data Scientist,7.88,1,5.9,Yes
+21,Bachelor's,Advanced,Short,Male,Business Analyst,7.77,1,8.2,No
+21,High School,Intermediate,None,Female,Data Scientist,6.16,2,3.9,No
+30,Diploma,Advanced,Long,Female,ML Engineer,7.2,5,3.3,No
+23,Bachelor's,Advanced,Short,Male,Business Analyst,9.11,3,3.2,Yes
+28,Master's,Intermediate,Short,Male,Business Analyst,7.16,1,3.3,No
+19,Bachelor's,Intermediate,None,Female,Data Analyst,7.61,1,7.3,No
+23,Bachelor's,Intermediate,Medium,Male,ML Engineer,7.52,6,3.3,No
+24,Master's,Intermediate,Medium,Male,Business Analyst,9.01,2,3.5,Yes
+25,Bachelor's,Expert,None,Other,Data Scientist,8.76,2,2.4,No
+30,Bachelor's,Advanced,None,Male,Business Analyst,8.33,2,5,No
+27,Master's,Expert,Medium,Female,Data Scientist,6.72,2,4.4,Yes
+21,Bachelor's,Beginner,Medium,Other,ML Engineer,7.92,2,2.6,No
+20,Master's,Advanced,None,Male,Data Analyst,8.11,0,3,No
+21,Bachelor's,Expert,Long,Male,Business Analyst,6.97,1,7.1,Yes
+30,Bachelor's,Intermediate,None,Male,Software Developer,6.82,2,4.6,No
+27,Diploma,Beginner,Short,Male,Data Analyst,9.13,1,4.7,Yes
+30,Bachelor's,Advanced,Long,Male,Data Scientist,7.33,3,4.7,No
+25,Bachelor's,Intermediate,Short,Female,Data Analyst,9.05,5,6.9,No
+27,Bachelor's,Advanced,Medium,Male,Software Developer,8.5,2,2.7,Yes
+20,PhD,Beginner,Short,Male,Data Scientist,7.97,4,3.8,No
+23,Bachelor's,Advanced,None,Other,Software Developer,8.01,1,4.2,No
+22,Master's,Intermediate,Long,Female,Data Scientist,6.34,4,1.6,No
+20,Bachelor's,Beginner,Short,Female,Data Scientist,7.79,4,2.9,No
+27,Master's,Beginner,Long,Male,Business Analyst,8.88,1,6.3,No
+27,Bachelor's,Advanced,None,Female,Data Analyst,8.21,2,5.8,No
+24,Bachelor's,Advanced,None,Male,ML Engineer,7.74,2,6.1,No
+29,Bachelor's,Intermediate,None,Male,Business Analyst,9.14,4,3.5,No
+24,Diploma,Intermediate,Medium,Male,Software Developer,7.43,2,3.7,No
+26,Master's,Advanced,Short,Female,Software Developer,7.04,3,1.5,No
+24,Bachelor's,Intermediate,Medium,Male,ML Engineer,7.74,0,6.1,No
+19,High School,Advanced,Short,Male,Data Analyst,8.29,4,6.4,No
+22,Bachelor's,Intermediate,Long,Male,Data Analyst,6.05,3,6.3,No
+25,Diploma,Intermediate,None,Male,Data Analyst,7.86,1,7.2,No
+20,Master's,Intermediate,Medium,Female,Business Analyst,8.33,1,5.2,Yes
+27,PhD,Intermediate,Medium,Female,Data Analyst,7.36,2,7.1,No
+26,Master's,Advanced,Medium,Female,Software Developer,8.6,4,4.2,Yes
+26,Bachelor's,Intermediate,Medium,Male,ML Engineer,8.18,2,1.5,Yes
+25,High School,Intermediate,Medium,Male,Business Analyst,9.53,3,6,No
+22,Master's,Advanced,Medium,Male,Software Developer,6.92,1,1.4,No
+20,Bachelor's,Intermediate,None,Male,Data Analyst,8.35,2,4.8,No
+21,PhD,Intermediate,None,Male,Business Analyst,6.68,4,6.1,Yes
+30,PhD,Advanced,Long,Female,Software Developer,6.15,4,5.1,Yes
+24,Master's,Advanced,Medium,Male,Data Analyst,5.77,4,8.4,No
+30,Bachelor's,Beginner,Medium,Male,Data Analyst,8.08,1,1.2,No
+30,Bachelor's,Expert,Short,Male,ML Engineer,7.77,4,4.4,Yes
+23,Master's,Advanced,None,Male,Software Developer,7.17,3,4.5,No
+30,Bachelor's,Intermediate,None,Male,Business Analyst,6,2,2.2,No
+26,Diploma,Beginner,Medium,Other,ML Engineer,6.98,1,2.5,Yes
+24,Bachelor's,Advanced,Short,Female,Software Developer,7.6,3,3.1,No
+24,Master's,Advanced,None,Female,Software Developer,8.31,3,2.6,No
+19,Master's,Intermediate,Short,Male,Software Developer,7.59,1,4.3,No
+22,Bachelor's,Advanced,None,Male,Data Scientist,7.83,5,3.5,No
+23,Diploma,Advanced,Short,Male,Software Developer,7.26,6,5,No
+30,Bachelor's,Beginner,None,Male,Business Analyst,9.17,3,5.6,No
+29,PhD,Intermediate,Medium,Female,Software Developer,6.68,1,5.5,No
+21,Diploma,Intermediate,None,Male,ML Engineer,6.97,3,3.8,No
+27,Bachelor's,Advanced,Short,Male,Software Developer,7.16,1,5,Yes
+19,Master's,Beginner,None,Male,Software Developer,8.09,1,6.3,No
+24,Master's,Intermediate,None,Male,Software Developer,6.67,1,5.3,No
+24,Master's,Advanced,Short,Female,Software Developer,7.72,1,7.7,Yes
+28,Master's,Advanced,Short,Male,Business Analyst,7.75,3,6.2,No
+23,Bachelor's,Intermediate,Medium,Male,Data Analyst,6.98,2,7.4,Yes
+30,Bachelor's,Advanced,None,Male,Software Developer,7.9,0,1,No
+23,Master's,Beginner,Medium,Male,Data Analyst,6.69,0,4.7,No
+28,Master's,Advanced,Medium,Female,Data Scientist,6.59,5,3.9,Yes
+23,Master's,Beginner,Medium,Female,Software Developer,7.69,1,4.3,No
+24,Master's,Intermediate,None,Female,Software Developer,6.11,2,3.1,No
+26,Bachelor's,Advanced,Short,Female,ML Engineer,5.67,0,5.2,No
+20,Bachelor's,Beginner,None,Male,Software Developer,8.08,3,1.4,Yes
+24,Master's,Intermediate,None,Female,Business Analyst,8.54,1,5.2,No
+19,Bachelor's,Advanced,Long,Male,Software Developer,7.18,1,3.2,Yes
+22,Master's,Advanced,None,Male,Software Developer,7,3,3.6,No
+28,Master's,Advanced,Short,Female,Data Analyst,8.5,2,5.2,Yes
+21,Master's,Advanced,Medium,Male,Data Scientist,6.57,1,4.6,No
+27,Bachelor's,Intermediate,Medium,Female,Data Scientist,6.37,0,6.3,No
+21,Bachelor's,Intermediate,Short,Male,Software Developer,8.24,4,2.9,No
+24,Diploma,Intermediate,None,Female,Data Analyst,7.61,0,4.4,Yes
+19,Bachelor's,Intermediate,None,Female,Data Analyst,8.56,1,6,Yes
+30,High School,Advanced,Short,Female,Data Scientist,5.67,2,5.1,No
+24,Bachelor's,Intermediate,None,Female,ML Engineer,6.34,3,5.2,Yes
+22,Bachelor's,Intermediate,Short,Female,Data Scientist,7.61,1,6.4,Yes
+26,Bachelor's,Intermediate,None,Male,Software Developer,7.98,5,3.8,No
+29,Bachelor's,Expert,None,Male,Data Analyst,8.36,2,3.5,No
+27,High School,Beginner,Short,Male,Software Developer,7.76,4,5.5,No
+22,High School,Intermediate,None,Female,,7.75,3,4.2,No
+28,Master's,Intermediate,Short,Male,Data Analyst,7.25,3,6.4,No
+30,Bachelor's,Advanced,Medium,Female,Software Developer,9.03,4,5.1,Yes
+28,Diploma,Beginner,Medium,Male,Data Analyst,6.61,2,3.4,No
+24,Bachelor's,Advanced,None,Male,Data Analyst,7.92,4,5.1,No
+19,Master's,Expert,None,Female,Data Analyst,6.71,2,3,No
+22,Bachelor's,Intermediate,None,Male,Data Analyst,8.08,5,6.1,Yes
+25,Bachelor's,Advanced,Medium,Male,Data Analyst,6.67,3,2.1,No
+30,Diploma,Expert,Medium,Male,Data Scientist,8.27,3,6.6,Yes
+19,High School,Advanced,None,Female,Business Analyst,7.7,3,5,Yes
+26,Bachelor's,Beginner,Long,Female,Software Developer,9.17,1,4.2,Yes
+30,Bachelor's,Intermediate,None,Male,Software Developer,7.35,3,5.8,No
+28,Bachelor's,Advanced,Short,Male,Data Scientist,7.98,5,5.4,No
+30,Master's,Intermediate,Medium,Male,ML Engineer,6.9,1,6.8,No
+29,PhD,Advanced,Long,Female,Data Scientist,7.34,3,6.7,Yes
+24,Bachelor's,Expert,Medium,Female,Data Analyst,7.7,0,5.1,Yes
+23,Bachelor's,Expert,Medium,Male,Software Developer,6.23,3,3,Yes
+28,Master's,Intermediate,None,Male,Data Analyst,6.32,3,3.6,No
+29,Bachelor's,Beginner,Medium,Male,Data Scientist,8.14,1,4.4,No
+27,Bachelor's,Expert,None,Female,Software Developer,7.47,4,6.3,No
+20,High School,Advanced,Long,Female,ML Engineer,7.07,0,3.7,No
+23,High School,Beginner,Short,Male,Software Developer,6.94,6,3.9,Yes
+24,PhD,Expert,Medium,Male,Business Analyst,6.97,3,7.6,Yes
+25,Master's,Advanced,Short,Male,ML Engineer,7.7,1,4.3,Yes
+23,Master's,Intermediate,Medium,Female,Data Analyst,8,3,3.4,No
+27,Bachelor's,Intermediate,Short,Male,Data Scientist,5.72,1,5.8,No
+19,Diploma,Intermediate,Medium,Female,Data Scientist,8.87,1,4.4,No
+25,Diploma,Beginner,None,Female,Software Developer,8.81,2,2.1,No
+28,Bachelor's,Intermediate,None,Male,Data Scientist,5.5,2,6.3,No
+25,Bachelor's,Advanced,None,Male,ML Engineer,8.58,4,3.2,Yes
+22,Master's,Beginner,None,Male,Business Analyst,8.55,2,4.6,Yes
+27,Bachelor's,Intermediate,Long,Female,Software Developer,7.6,6,4.4,No
+30,Bachelor's,Intermediate,None,Female,Data Scientist,6.43,1,4.9,No
+29,PhD,Intermediate,Long,Female,Business Analyst,8.51,2,1,Yes
+23,Master's,Advanced,None,Male,ML Engineer,7.38,1,3.9,No
+22,Bachelor's,Intermediate,None,Male,Business Analyst,8.09,3,6.4,No
+25,Bachelor's,Intermediate,Medium,Female,Data Analyst,9.6,3,6.7,Yes
+22,Bachelor's,Advanced,Medium,Female,Software Developer,7.83,4,2.8,No
+21,Bachelor's,Intermediate,Short,Male,Data Analyst,6.77,5,6.1,No
+27,Bachelor's,Intermediate,Short,Other,Data Scientist,7.3,3,3.2,No
+29,Master's,Intermediate,Medium,Female,Data Analyst,6.89,2,3.9,Yes
+26,High School,Beginner,None,Female,Software Developer,7.99,3,4,Yes
+19,Diploma,Beginner,Long,Female,Software Developer,6.87,1,4.7,Yes
+25,High School,Intermediate,Long,Female,Data Analyst,7.17,6,6.2,Yes
+27,High School,Intermediate,Medium,Female,Data Scientist,6.44,3,4.9,No
+26,Master's,Advanced,None,Male,Software Developer,7.48,1,4.3,No
+26,Master's,Intermediate,Medium,Male,Data Scientist,7.76,1,6.1,Yes
+24,Bachelor's,Intermediate,None,Female,Data Analyst,5.18,6,3.1,No
+29,Diploma,Advanced,None,Male,Data Scientist,7.83,4,4.4,Yes
+22,Bachelor's,Beginner,None,Male,Business Analyst,7.56,2,6.2,No
+26,Bachelor's,Advanced,Short,Male,Data Analyst,6.91,3,5.4,Yes
+21,Diploma,Beginner,Medium,Male,Data Analyst,9.43,6,3.7,Yes
+27,Bachelor's,Expert,Medium,Female,Data Scientist,8.46,2,1.9,Yes
+20,Bachelor's,Beginner,Medium,Female,ML Engineer,6.61,4,5,No
+20,Bachelor's,Intermediate,Short,Male,Software Developer,8.35,0,1.8,No
+30,Bachelor's,Beginner,None,Male,Software Developer,8.72,4,4.1,No
+30,High School,Expert,Short,Male,Data Scientist,7.72,3,6.5,Yes
+25,Bachelor's,Intermediate,Long,Female,Software Developer,7.93,5,5.5,Yes
+30,Bachelor's,Intermediate,None,Female,Data Analyst,7.9,2,1.1,Yes
+28,Bachelor's,Beginner,Medium,Male,Software Developer,5.72,4,4.8,No
+22,Master's,Advanced,Short,Female,ML Engineer,7.43,2,4,Yes
+28,Bachelor's,Intermediate,Short,Female,Software Developer,7.38,4,2.3,No
+26,Diploma,Advanced,Medium,Female,ML Engineer,8.89,4,5.1,Yes
+27,High School,Intermediate,Short,Female,Business Analyst,7.9,0,3.7,No
+25,Bachelor's,Intermediate,Long,Male,Data Analyst,7.33,3,3.7,No
+23,High School,Beginner,Long,Female,ML Engineer,7.52,2,4.7,Yes
+26,Bachelor's,Intermediate,Short,Male,Data Analyst,8.52,3,3.4,Yes
+22,Master's,Intermediate,None,Female,Software Developer,7.43,2,4.7,No
+20,Bachelor's,Beginner,Short,Female,Data Analyst,6.97,3,3.5,No
+29,Bachelor's,Advanced,Long,Female,Data Analyst,7.35,3,3.6,Yes
+30,Bachelor's,Intermediate,None,Female,Software Developer,8.45,2,6.2,Yes
+24,Bachelor's,Intermediate,Medium,Male,Data Scientist,8.05,3,6.4,No
+27,Bachelor's,Intermediate,Medium,Male,Software Developer,7.64,4,1.6,Yes
+19,Master's,Intermediate,Medium,Other,Software Developer,7.77,2,5.8,No
+29,Bachelor's,Intermediate,None,Female,Data Analyst,7.1,0,6.9,No
+28,PhD,Beginner,Medium,Male,Data Analyst,7.43,4,7.1,No
+30,Master's,Intermediate,Long,Male,Software Developer,7,0,5.4,Yes
+25,Diploma,Advanced,None,Male,Data Scientist,7.33,3,2.7,Yes
+28,High School,Expert,None,Female,Business Analyst,8.81,2,5.6,No
+27,Diploma,Intermediate,Long,Female,Software Developer,6.63,2,3,No
+28,High School,Intermediate,None,Male,Business Analyst,6.98,0,3.9,No
+27,Diploma,Advanced,Medium,Male,Business Analyst,6.47,2,5.2,No
+28,Master's,Intermediate,Short,Female,Software Developer,6.28,1,3.1,No
+29,High School,Beginner,None,Female,Software Developer,7.43,3,2.6,No
+21,Bachelor's,Beginner,Long,Male,Data Scientist,7.04,4,5.3,Yes
+29,Master's,Advanced,Short,Female,Data Scientist,9.19,6,7.7,No
+23,High School,Advanced,Short,Male,Business Analyst,7.35,3,6.6,Yes
+26,Master's,Beginner,Short,Male,Software Developer,8.76,2,5.7,Yes
+26,Bachelor's,Intermediate,Short,Female,Business Analyst,8.47,2,6.2,No
+22,Diploma,Intermediate,None,Female,Business Analyst,7.41,2,5.6,No
+30,Master's,Advanced,Short,Female,Business Analyst,9.5,1,5.3,No
+29,Bachelor's,Beginner,Long,Female,ML Engineer,7.84,1,6,No
+29,Master's,Beginner,None,Female,Software Developer,8.96,2,2.2,Yes
+19,Master's,Advanced,Medium,Male,Data Scientist,8.86,4,4.8,No
+19,Master's,Beginner,None,Male,Software Developer,7.97,1,4.4,No
+22,Bachelor's,Advanced,Medium,Male,Data Scientist,8.28,1,4.6,Yes
+24,Diploma,Intermediate,None,Male,Software Developer,8.16,2,3.7,No
+26,Master's,Beginner,Long,Female,Business Analyst,6.57,2,5.4,Yes
+24,Master's,Intermediate,Short,Other,Software Developer,7.65,1,3.1,No
+30,PhD,Advanced,None,Male,Data Scientist,8.57,0,3.6,Yes
+27,Bachelor's,Advanced,None,Male,Data Analyst,8.97,3,3.4,Yes
+27,Bachelor's,Advanced,None,Female,Software Developer,6.95,0,6,No
+20,Master's,Intermediate,Short,Male,Data Analyst,8.08,3,4.5,No
+28,Bachelor's,Advanced,None,Female,ML Engineer,7.74,1,3.7,No
+19,Master's,Intermediate,Medium,Female,Data Scientist,,6,3.9,Yes
+20,Master's,Intermediate,Short,Female,Data Analyst,7.92,2,4.5,No
+23,Bachelor's,Advanced,None,Male,Data Analyst,7.8,2,7.3,No
+22,Master's,Beginner,Medium,Male,Software Developer,8.09,2,2.4,Yes
+22,Master's,Beginner,Medium,Female,Software Developer,8.9,4,5.6,No
+27,Diploma,Intermediate,,Female,Data Scientist,8.31,1,5.3,No
+29,Master's,Beginner,None,Male,Data Analyst,7.88,2,3,No
+26,Bachelor's,Intermediate,None,Female,Data Scientist,9.28,4,7,Yes
+24,Master's,Intermediate,Medium,Male,Data Scientist,8.6,1,5.4,Yes
+19,Bachelor's,Intermediate,Medium,Female,Software Developer,7.52,3,3.6,No
+20,Master's,Advanced,Short,Male,Software Developer,6.5,4,1.3,Yes
+24,Bachelor's,Advanced,Medium,Female,Data Scientist,6.71,1,4.9,No
+29,High School,Intermediate,Medium,Male,Data Analyst,8.44,5,4.4,No
+20,Master's,Intermediate,Short,Male,ML Engineer,7.03,2,2.7,No
+28,Diploma,Intermediate,Medium,Male,Software Developer,6.69,1,2.7,No
+23,Bachelor's,Intermediate,None,Male,Software Developer,6.92,3,6,No
+23,PhD,Intermediate,None,Female,Data Analyst,6.98,1,1.2,No
+24,PhD,Advanced,None,Other,Software Developer,8.37,3,5,Yes
+24,Bachelor's,Intermediate,None,Male,Data Analyst,7.46,2,4.2,No
+24,Bachelor's,Intermediate,Short,Male,Software Developer,6.36,2,5.3,No
+20,Bachelor's,Intermediate,Long,Female,ML Engineer,7.63,2,4,No
+28,Bachelor's,Intermediate,None,Female,Data Scientist,7.8,1,5,No
+21,Bachelor's,Expert,None,Female,Data Analyst,7.17,2,3.2,No
+24,Bachelor's,Advanced,Short,Male,Data Analyst,8.64,2,4.4,No
+26,Master's,Beginner,Long,Male,Data Scientist,7.22,0,5.3,No
+30,Master's,Advanced,None,Female,Data Analyst,8.6,1,4.8,Yes
+29,Master's,Intermediate,Short,Male,Data Analyst,8.14,1,5.1,No
+30,Diploma,Advanced,None,Female,Business Analyst,8.43,0,2.9,No
+19,Bachelor's,Advanced,None,Male,Software Developer,6.61,1,3.5,No
+19,High School,Intermediate,Long,Female,Data Scientist,7.69,2,3.5,No
+29,Bachelor's,Beginner,Long,Male,ML Engineer,7.55,3,4,Yes
+20,Bachelor's,Intermediate,None,Female,Data Analyst,6.32,3,6.8,No
+29,Master's,Intermediate,Long,Male,ML Engineer,8.59,2,3.9,No
+30,Bachelor's,Advanced,Medium,Female,Data Scientist,6.86,4,2.6,Yes
+30,Diploma,Intermediate,Medium,Male,ML Engineer,7.05,2,5.4,No
+24,Diploma,Beginner,Short,Female,Software Developer,6.69,2,6.8,No
+27,Master's,Advanced,Short,Female,Business Analyst,8.23,5,2.4,Yes
+22,Bachelor's,Expert,Short,Female,ML Engineer,6.23,4,7.9,Yes
+21,Diploma,Intermediate,Medium,Female,Data Scientist,8.16,4,5.2,Yes
+30,Diploma,Beginner,None,Female,ML Engineer,8.54,7,6.3,No
+26,Master's,Intermediate,None,Female,Data Scientist,8.08,4,7,No
+29,High School,Beginner,None,Male,Data Scientist,8.24,3,6.2,No
+28,Master's,Advanced,Medium,Female,Data Scientist,8.28,1,4.3,No
+27,Master's,Beginner,None,Male,Software Developer,6.75,2,6.6,No
+30,Diploma,Intermediate,Medium,Male,Data Analyst,8.89,6,4.9,Yes
+29,Diploma,Intermediate,Long,Male,Software Developer,7.19,2,6.4,No
+23,PhD,Intermediate,None,Male,Software Developer,7.54,1,6.5,Yes
+27,Bachelor's,Advanced,Medium,Female,Business Analyst,7.3,0,2.6,No
+20,Bachelor's,Advanced,Short,Female,Business Analyst,8.04,0,5.9,No
+21,Master's,Intermediate,Medium,Female,Software Developer,7.12,4,4.2,No
+25,Master's,Beginner,None,Male,Data Scientist,7.66,2,4.7,No
+25,PhD,Beginner,Medium,Male,Data Scientist,6.49,5,4.7,Yes
+24,Master's,Advanced,Medium,Male,Data Analyst,8.65,0,4.6,Yes
+24,Bachelor's,Advanced,Long,Male,Data Analyst,8.2,2,7.1,No
+20,Diploma,Intermediate,Medium,Male,Data Scientist,7.34,4,2.2,No
+28,Master's,Advanced,Short,Male,Data Scientist,7.18,2,1.6,No
+24,Bachelor's,Advanced,Medium,Male,ML Engineer,8.18,3,1.2,Yes
+22,Bachelor's,Beginner,Medium,Female,Software Developer,6.96,2,6.3,No
+30,Master's,Advanced,Short,Female,Data Scientist,7.71,2,3.2,No
+21,Diploma,Intermediate,None,Other,Software Developer,8.65,0,4.7,No
+29,Bachelor's,Intermediate,Long,Female,Data Analyst,6.87,4,4.3,Yes
+20,High School,Intermediate,Medium,Female,Software Developer,7.93,5,3,Yes
+19,Bachelor's,Beginner,Medium,Male,Software Developer,7.88,2,5.9,No
+29,High School,Beginner,None,Female,Software Developer,7.51,3,4.3,No
+29,Diploma,Advanced,Medium,Female,Data Scientist,7.15,6,4.1,No
+23,Diploma,Beginner,Short,Male,ML Engineer,8.69,2,4.9,No
+20,Bachelor's,Advanced,Medium,Male,ML Engineer,7.06,3,5.7,No
+20,Master's,Intermediate,None,Female,Software Developer,5.97,3,2.9,No
+25,Bachelor's,Intermediate,Medium,Male,Software Developer,8.18,1,6,Yes
+26,PhD,Intermediate,Long,Female,Software Developer,6.52,2,7,No
+28,Bachelor's,Intermediate,None,Female,Data Analyst,8.22,5,2.1,No
+26,Bachelor's,Advanced,Long,Male,Data Scientist,8.8,1,5,Yes
+22,Master's,Intermediate,Short,Male,Data Analyst,8.17,3,4,No
+19,Bachelor's,Intermediate,Long,Male,Software Developer,8.56,3,5.7,Yes
+29,PhD,Intermediate,Medium,Male,Software Developer,9.42,3,2.4,Yes
+25,High School,Advanced,Short,Male,Data Analyst,8.47,2,7.3,Yes
+19,PhD,Expert,Medium,Female,ML Engineer,7.9,2,1.8,No
+29,High School,Advanced,Long,Male,ML Engineer,9.07,2,4.1,Yes
+22,Master's,Intermediate,Short,Male,Business Analyst,9.18,0,5.2,No
+26,Bachelor's,Beginner,None,Male,Software Developer,9.19,1,3.3,No
+20,PhD,Intermediate,Medium,Female,Business Analyst,7.16,0,3.1,No
+24,High School,Intermediate,Medium,Male,Data Analyst,6.38,0,4.9,Yes
+24,Bachelor's,Beginner,Medium,Male,Business Analyst,7.1,2,4.6,No
+30,PhD,Intermediate,Medium,Female,Data Analyst,8.23,3,4.5,Yes
+27,Bachelor's,Intermediate,Short,Female,Business Analyst,7.74,0,6,No
+23,Bachelor's,Intermediate,Medium,Male,Data Scientist,7.41,3,3.8,No
+28,Master's,Advanced,None,Female,ML Engineer,8.1,1,5,No
+22,Bachelor's,Beginner,Short,Male,ML Engineer,6.28,1,3.6,No
+23,Bachelor's,Beginner,None,Male,Data Analyst,7.73,6,3.1,No
+30,Bachelor's,Advanced,None,Male,Software Developer,8.61,4,4,No
+30,Master's,Intermediate,Short,Male,ML Engineer,8.09,2,3.7,No
+28,High School,Advanced,Short,Female,Software Developer,8.22,4,3.7,Yes
+29,Bachelor's,Intermediate,Medium,Male,Business Analyst,9.04,4,6.5,Yes
+23,PhD,Intermediate,Short,,Software Developer,7.54,0,4.1,No
+26,Master's,Advanced,Short,Female,Data Scientist,7.01,3,3.4,No
+28,Bachelor's,Advanced,None,Female,Data Scientist,8.67,3,4.5,No
+30,Bachelor's,Advanced,Short,Male,Data Analyst,8.65,6,4.7,No
+26,Bachelor's,Intermediate,None,Female,Business Analyst,8.1,1,2.5,No
+20,Diploma,Intermediate,None,Male,Data Scientist,7.46,4,4,No
+25,Bachelor's,Intermediate,Medium,Female,Software Developer,7.6,2,3.9,No
+26,Bachelor's,Beginner,Medium,Female,Software Developer,6.45,2,4.2,No
+29,Bachelor's,Advanced,Medium,Female,Software Developer,8.6,2,5.7,No
+24,High School,Beginner,Short,Male,Business Analyst,8.57,2,4.7,No
+23,PhD,Expert,Short,Male,ML Engineer,6.42,2,6.6,Yes
+29,PhD,Intermediate,Medium,Male,Data Scientist,8.38,1,4.5,No
