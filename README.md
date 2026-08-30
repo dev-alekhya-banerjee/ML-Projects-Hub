@@ -6,5 +6,5 @@ A topic-wise repository showcasing hands-on implementations of Machine Learning 
 
 | Topic | Notebook / Code | Dataset | Key Focus Areas |
 | :--- | :--- | :--- | :--- |
-| **Feature Engineering** | [`Feature Engineering.ipynb`](./Feature%20Engineering.ipynb) | [`Student_data_analysis.csv`](./Student_data_analysis.csv) | Missing Value Heatmap Analysis, Nominal Encoding, Ordinal Encoding, Label Encoding |
-
+| **Feature Engineering (Part 1)** | [`Feature Engineering.ipynb`](./Feature%20Engineering.ipynb) | [`Student_data_analysis.csv`](./Student_data_analysis.csv) | Missing Value Heatmap Analysis, Nominal Encoding, Ordinal Encoding, Label Encoding |
+| **Feature Engineering (Part 2)** | [`Feature Engineering 2.0.ipynb`](./Feature%20Engineering%202.0.ipynb) | [`train.csv`](./Student_data_analysis.csv) | Advanced Feature Transformations & Scaling Techniques |
